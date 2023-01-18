@@ -70,7 +70,7 @@ body{
 .shaded{
     color: gray;
 }
-@media (900px > width > 700px){
+@media (1200px > width > 700px){
     .box2 .min-box2 .box{
         width: 70%;
         grid-template-columns: repeat(2,1fr);
